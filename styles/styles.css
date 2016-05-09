@@ -1,0 +1,15 @@
+<style type="text/css">
+table {
+	border-spacing: 2rem;
+	border: 0px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 1px;
+}
+th, td {
+	text-align: center;
+}
+th,td,h1,form,h2{
+	font-family: Segoe UI;
+}
+</style>
